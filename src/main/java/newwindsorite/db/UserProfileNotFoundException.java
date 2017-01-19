@@ -1,5 +1,12 @@
 package newwindsorite.db;
 
+/**
+ * 
+ * 
+ * 
+ * @author Clóvis
+ *
+ */
 public class UserProfileNotFoundException extends Exception {
 
 	public UserProfileNotFoundException() {

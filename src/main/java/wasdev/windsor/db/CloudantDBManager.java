@@ -22,6 +22,12 @@ import newwindsorite.db.UserProfileAlreadyExistentException;
 import newwindsorite.db.UserProfileNotFoundException;
 import wasdev.windsor.resources.UserProfile;
 
+/**
+ * 
+ * 
+ * @author Clóvis
+ *
+ */
 public class CloudantDBManager {
 
 	private CloudantClient cloudant = null;

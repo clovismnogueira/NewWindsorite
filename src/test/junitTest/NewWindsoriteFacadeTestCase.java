@@ -6,6 +6,13 @@ import wasdev.windsor.facade.NewWindsoriteFacade;
 import wasdev.windsor.resources.UserProfile;
 import wasdev.windsor.resources.WindsoriteUtil;
 
+/**
+ * 
+ *   Test Case for system Facade
+ * 
+ * @author Clóvis
+ *
+ */
 public class NewWindsoriteFacadeTestCase extends TestCase {
 
 	/**

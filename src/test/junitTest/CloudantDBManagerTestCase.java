@@ -6,6 +6,12 @@ import newwindsorite.db.UserProfileNotFoundException;
 import wasdev.windsor.db.CloudantDBManager;
 import wasdev.windsor.resources.UserProfile;
 
+/**
+ *   Testing Class for ClaudantDB Data layer
+ * 
+ * @author Clóvis
+ *
+ */
 public class CloudantDBManagerTestCase  extends TestCase {
 
 	/**
