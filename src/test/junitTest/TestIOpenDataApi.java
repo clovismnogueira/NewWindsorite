@@ -10,6 +10,14 @@ import wasdev.windsor.resources.UserProfile;
 import wasdev.windsor.resources.WindsorOpenDataApi;
 
 
+/**
+ * 
+ *  Test Case classes to communicate with the Open Data API from Windsor
+ * 
+ * @author Clóvis
+ *
+ */
+
 public class TestIOpenDataApi {
 
 	static WindsorOpenDataApi obj = new WindsorOpenDataApi();
