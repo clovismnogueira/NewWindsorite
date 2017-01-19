@@ -17,7 +17,11 @@ import com.google.gson.JsonArray;
 import wasdev.windsor.resources.WindsorOpenDataApi;
 
 /**
+ * 
  * Servlet implementation class OpenDataInteraction
+ * 
+ * @author Clóvis
+ *
  */
 @WebServlet("/OpenDataInteraction")
 public class OpenDataInteraction extends HttpServlet {

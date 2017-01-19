@@ -18,10 +18,17 @@ import wasdev.windsor.db.CloudantDBManager;
 import wasdev.windsor.facade.NewWindsoriteFacade;
 import wasdev.windsor.resources.*;
 
+
+ 	
+
 /**
- * 	Servlet Controller for interaction between Web Layer and System Layer
- *
+ * 
+ * 
+ *  Servlet Controller for interaction between Web Layer and System Layer
+ * 
  */
+ 	
+ 	
 @WebServlet("/Controller")
 public class WindsoriteServletController extends HttpServlet {
 

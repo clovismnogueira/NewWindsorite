@@ -11,6 +11,12 @@ import wasdev.windsor.resources.UserProfile;
 import wasdev.windsor.resources.WindsoriteUtil;
 
 
+/**
+ * 
+ * 
+ * @author Clóvis
+ *
+ */
 public class NewWindsoriteFacade {
 	
 	

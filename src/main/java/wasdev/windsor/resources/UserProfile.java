@@ -1,5 +1,12 @@
 package wasdev.windsor.resources;
 
+
+/**
+ * 
+ * 
+ * @author Clóvis
+ *
+ */
 public class UserProfile {
 	
 	private String _id;

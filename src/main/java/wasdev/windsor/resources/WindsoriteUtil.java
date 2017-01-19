@@ -1,5 +1,4 @@
 package wasdev.windsor.resources;
-
 import java.io.IOError;
 import java.io.IOException;
 import java.security.MessageDigest;
@@ -15,6 +14,15 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * 
+ * 
+ * 
+ * 
+ * 
+ * @author Clóvis
+ *
+ */
 public class WindsoriteUtil {
 
 	/**
